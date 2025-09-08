@@ -1,4 +1,4 @@
-# Your startup name here
+# ResearchCompass
 
 [My Notes](notes.md)
 
