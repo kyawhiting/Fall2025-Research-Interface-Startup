@@ -35,31 +35,31 @@ At MyCure, we believe patients deserve to understand the science that affects th
 
 ![Design image](https://github.com/kyawhiting/Fall2025-Research-Interface-Startup/blob/main/my-cure.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The website layout includes a home page button there on the left, This is where the user can view website updates, settings, profile, etc. There is a research article tab where a feed of research can be pulled up, a world news tab for more general information relating to world health, and finally scholarship or job related information related to the profile's diseaese or research of interest.
 
 ```mermaid
 sequenceDiagram
     actor You
     actor Website
-    You->>Website: Replace this with your design
+    You->>Website: MyCure
 ```
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Personalized research feed.
+- Stay connected with your community of interest with honest updates.
+- AI descriptions and summaries of the research provided.
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
 - **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **CSS** - The layout will be responsive (apparently Flexbox is supposed to be really easy to use, as well as css grid) and have a minimal color system (blue/orange/gray/lavender), and a light/dark mode toggle could be fun.
+- **React** - Use of components like a condition selector and when the user picks a condition, the feed fetches and renders matching articles.
+- **Service** - From what I understand, I'll start with a local json and then a real API that can normalize fields like title, source, date, and the AI plain-language summary.
+- **DB/Login** - Use the AWS account locally and just have an email login with maybe bookmark tabs saved. 
+- **WebSocket** - If I could get new feed updates without reloading the page, that's the hope for this part.
 
 ## 🚀 AWS deliverable
 
