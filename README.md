@@ -1,8 +1,11 @@
-# ResearchCompass
+# MyCure
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+MyCure is a personalized platform designed for people with specific diseases, disorders, or illnesses.
+Medical research is constantly advancing, but it can be overwhelming and difficult to access. With MyCure, your home screen is tailored to your condition of interest, showing you the latest global research — from promising breakthroughs in labs and clinical studies to inspiring success stories and even important lessons from setbacks in therapy development.
+
+Each report includes a simple, easy-to-read summary in plain language, so that anyone can understand complex scientific findings without needing a medical background.
 
 
 > [!NOTE]
